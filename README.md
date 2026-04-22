@@ -54,8 +54,8 @@ The application was packaged with Docker and deployed on AWS ECS using Fargate, 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
-cd <repo-folder>
+git clone https://github.com/kashifsahilks906/yoloV11-aws-deployment
+cd yoloV11-aws-deployment
 ```
 
 ### 2. Create a virtual environment
