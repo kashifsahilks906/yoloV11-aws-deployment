@@ -54,8 +54,8 @@ The application was packaged with Docker and deployed on AWS ECS using Fargate, 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
-cd <repo-folder>
+git clone https://github.com/kashifsahilks906/yoloV11-aws-deployment
+cd yoloV11-aws-deployment
 ```
 
 ### 2. Create a virtual environment
@@ -131,9 +131,10 @@ These issues were an important part of the learning process because they showed 
 
 I trained the custom YOLO model in a Kaggle notebook.
 
-Kaggle notebook link: **[Add your Kaggle notebook link here]**
-
-You can paste the notebook URL here later so anyone reviewing the project can see the training workflow, dataset setup, and model training steps.
+### Kaggle Training Notebook Link
+```text
+https://www.kaggle.com/code/kashifsahil/yolo11-objectdetection-on-customdataset
+```
 
 ## Results
 
